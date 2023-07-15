@@ -9,4 +9,4 @@
 爬取的代理IP将存放至同目录下的"代理ip列表.xlsx"文件中。
 
 # 注意事项
-该程序运行需要安装Anaconda3下载地址(https://www.anaconda.com/download)https://www.anaconda.com/download）
+该程序运行需要安装Anaconda3下载地址(https://www.anaconda.com/download)
