@@ -54,7 +54,7 @@ try:
             sheet.cell(row=i + start_row, column=2, value=ip_info['port'])
 
         # 保存Excel文件
-        workbook.save(filename="output.xlsx")
+        workbook.save(filename="代理ip列表.xlsx")
 
 except requests.exceptions.RequestException as e:
     print('请求异常:', e)
